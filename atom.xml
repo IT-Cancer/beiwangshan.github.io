@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://it-cancer.github.io/beiwangshan.github.io/</id>
     <title>北忘山</title>
-    <updated>2020-03-08T15:34:39.174Z</updated>
+    <updated>2020-03-08T15:39:29.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://it-cancer.github.io/beiwangshan.github.io/"/>
     <link rel="self" href="https://it-cancer.github.io/beiwangshan.github.io/atom.xml"/>
@@ -12,9 +12,11 @@
     <rights>All rights reserved 2020, 北忘山</rights>
     <entry>
         <title type="html"><![CDATA[测试文章]]></title>
-        <id>https://it-cancer.github.io/beiwangshan.github.io/ce-shi-wen-zhang/</id>
-        <link href="https://it-cancer.github.io/beiwangshan.github.io/ce-shi-wen-zhang/">
+        <id>https://it-cancer.github.io/beiwangshan.github.io/post/ce-shi-wen-zhang/</id>
+        <link href="https://it-cancer.github.io/beiwangshan.github.io/post/ce-shi-wen-zhang/">
         </link>
         <updated>2020-03-08T14:24:11.000Z</updated>
+        <content type="html"><![CDATA[<p>测试文章</p>
+]]></content>
     </entry>
 </feed>
